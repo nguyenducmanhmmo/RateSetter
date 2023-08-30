@@ -1,0 +1,15 @@
+D:\source\repos\RateSetter\RateSetter\bin\Debug\net6.0\RateSetter.exe
+D:\source\repos\RateSetter\RateSetter\bin\Debug\net6.0\RateSetter.deps.json
+D:\source\repos\RateSetter\RateSetter\bin\Debug\net6.0\RateSetter.runtimeconfig.json
+D:\source\repos\RateSetter\RateSetter\bin\Debug\net6.0\RateSetter.dll
+D:\source\repos\RateSetter\RateSetter\bin\Debug\net6.0\RateSetter.pdb
+D:\source\repos\RateSetter\RateSetter\obj\Debug\net6.0\RateSetter.csproj.AssemblyReference.cache
+D:\source\repos\RateSetter\RateSetter\obj\Debug\net6.0\RateSetter.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\RateSetter\RateSetter\obj\Debug\net6.0\RateSetter.AssemblyInfoInputs.cache
+D:\source\repos\RateSetter\RateSetter\obj\Debug\net6.0\RateSetter.AssemblyInfo.cs
+D:\source\repos\RateSetter\RateSetter\obj\Debug\net6.0\RateSetter.csproj.CoreCompileInputs.cache
+D:\source\repos\RateSetter\RateSetter\obj\Debug\net6.0\RateSetter.dll
+D:\source\repos\RateSetter\RateSetter\obj\Debug\net6.0\refint\RateSetter.dll
+D:\source\repos\RateSetter\RateSetter\obj\Debug\net6.0\RateSetter.pdb
+D:\source\repos\RateSetter\RateSetter\obj\Debug\net6.0\RateSetter.genruntimeconfig.cache
+D:\source\repos\RateSetter\RateSetter\obj\Debug\net6.0\ref\RateSetter.dll
